@@ -1,0 +1,33 @@
+{
+  "name": "the-isles-of-peridot",
+  "version": "0.1.0",
+  "description": "The Isles of Peridot is a multiplayer turn-based RPG where you build a team of creatures to explore dungeons, battle hostile creatures, build communities, trade items, and more!",
+  "main": "src/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spicy-ashes/the-isles-of-peridot.git"
+  },
+  "keywords": [
+    "multiplayer",
+    "turn-based",
+    "rpg",
+    "team",
+    "dungeons",
+    "battle",
+    "creatures",
+    "trading"
+  ],
+  "author": "Sol (Spicy Ashes)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spicy-ashes/the-isles-of-peridot/issues"
+  },
+  "homepage": "https://github.com/spicy-ashes/the-isles-of-peridot#readme"
+}
